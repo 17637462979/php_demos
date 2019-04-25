@@ -36,11 +36,11 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="71" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="72" />
+    <option name="y" value="30" />
     <option name="width" value="1346" />
-    <option name="height" value="751" />
+    <option name="height" value="715" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,10 +86,10 @@
     </option>
   </component>
   <component name="RunManager" selected="PHP Script.99multiplication.php">
-    <configuration name="99multiplication.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_demos/99multiplication.php" useBuiltInWebServerPort="true">
+    <configuration name="99multiplication.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_demos/demos/99multiplication.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="99multiplication.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/99multiplication.php">
+    <configuration name="99multiplication.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demos/99multiplication.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
